@@ -9,7 +9,7 @@ Built for the **"Build What's Next with PayPal and AI"** hackathon.
 | | |
 |---|---|
 | 🌐 Hosted demo | https://trustagentai.streamlit.app/ |
-| 🎬 Demo video | `https://youtu.be/YOUR-VIDEO-ID` *(replace after uploading)* |
+| 🎬 Demo video | https://youtu.be/mPWfKTKoxcw?si=-vfYBJ-_M3wgLy1F |
 | 📄 License | MIT |
 
 ---
