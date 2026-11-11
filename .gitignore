@@ -1,0 +1,15 @@
+# Secrets: never commit these
+.streamlit/secrets.toml
+.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local escrow store / editor files
+trustagent_escrows.json*
+.vscode/
+.idea/
